@@ -8,7 +8,7 @@
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-CBLSL%20v2.0-red?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Windows-Supported-blue?style=for-the-badge&logo=windows"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
@@ -62,7 +62,7 @@ It replaces complex command-line networking tasks with a **modern, intuitive int
 
 ### 🐍 Software
 
-* Python 3.10+
+* Python 3.12+
 
 ### 📦 Libraries
 
@@ -83,3 +83,62 @@ A[User Interface] --> B[System Commands]
 B --> C[Windows Network Stack]
 C --> D[Adapter / IP Configuration]
 C --> E[Diagnostics & Monitoring]
+```
+
+---
+
+## 🎯 Use Case
+
+Designed for environments where **network reliability and control are critical**:
+
+* 🛰️ Ground stations & telemetry systems  
+* 🏢 Enterprise network management  
+* 🔐 Secure / restricted environments (DRDO-type setups)  
+* 🧪 Testing & troubleshooting labs  
+
+---
+
+## 👨‍💻 Author
+
+<p align="center">
+  <b>Chiranjib Kar</b><br>
+</p>
+
+---
+
+## 🔄 Workflow
+
+### 🖥️ Configuration
+
+* Select adapter → View current config → Apply Static IP / DHCP  
+
+### 📡 Diagnostics
+
+* Ping target → Analyze response → Identify issues  
+
+### 🔌 Adapter Management
+
+* Enable / Disable → Monitor → Refresh state  
+
+---
+
+## 📜 License & Usage
+
+This project is licensed under **CBtronix Labs Source License v2.0 (CBLSL v2.0)**.
+
+### ✅ You are allowed to:
+
+* Use the software for personal or commercial purposes  
+* Run and distribute the software in its original form
+* Modify or alter the source code  
+
+### ❌ You are NOT allowed to:
+ 
+* Redistribute modified versions  
+* Rebrand or sell this software as your own  
+
+### ⚠️ Note:
+
+This is **not fully open-source**. The source is shared with restrictions.
+
+See [LICENSE](./LICENSE) for full terms.
